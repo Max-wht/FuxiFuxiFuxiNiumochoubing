@@ -1,0 +1,12 @@
+server:
+  port: 9918
+
+spring:
+  application:
+    name: excel_mp
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://10.22.191.177:30306/cpquery_crawler
+    username: cpquery_crawler
+    password: Kp7@mN9$wQ3zL6#Y
+
